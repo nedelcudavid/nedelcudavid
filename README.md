@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a computer engineer, passionate about technology and problem-solving. I enjoy designing and developing efficient, reliable, and well-structured software systems that make a real impact in the world.
+✨ I am a computer engineer, passionate about technology and problem-solving. I enjoy designing and developing efficient, reliable, and well-structured software systems that make a real impact in the world. ✨
 <!--
 **nedelcudavid/nedelcudavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
